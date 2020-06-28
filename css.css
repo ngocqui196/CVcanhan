@@ -1,0 +1,45 @@
+body{
+    background-color: aqua;
+
+}
+#test{
+
+    height: 650px;
+    background-color: cornflowerblue;
+}
+#test2{
+    margin-left: 50px;
+    height: 500px;
+}
+#test3{
+    margin-left: 100px;
+    width: 300px;
+}
+.sam{
+    font-family: "Arial Unicode MS";
+    font-size: 17px;
+    color: maroon;
+}
+h1 {
+    padding-left: 50px;
+    padding-top: 10px;
+    font-size: 60px;
+    color: red;
+    font-family: Bookman, Tahoma, Verdana;
+}
+h3{
+    font-family: Calibri;
+    color: orange;
+    font-size: 32px;
+}
+
+li {
+    font-family: Arial;
+    color: darkblue;
+}
+.demo {
+    float: left;
+}
+img{
+    margin-left: 150px;
+}
